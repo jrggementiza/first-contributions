@@ -1,6 +1,8 @@
 # Contributors
-[Adilet Berdibekov]https://github.com/berdibekovadilet
+
 <!-- prettier-ignore-start -->
+- [Kaushal Powar](https://github.com/kaushalpowar)
+- [Adilet Berdibekov](https://github.com/berdibekovadilet)
 - [Dipak Kalauni](https://github.com/KaloniGiga)
 - [Richard McCormick](https://github.com/rmccormick314)
 - [Rafli Muhammad](https://github.com/raflimuhammadd)
@@ -91,8 +93,8 @@ Mohammed Yunus
 - JamesBond 
 - Tariqs26
 - Yashwanth Krishna
-- [Edmar Campos] (https://github.com/Edax97)
-- [Patnala Karthikeya] (https://github.com/KarthikeyaPatnala12)
+- [Edmar Campos](https://github.com/Edax97)
+- [Patnala Karthikeya](https://github.com/KarthikeyaPatnala12)
 - Ezad Haziq Bin Zamily
 - [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
 - [Chintan Golakiya](https://github.com/chintan-golakiya)
@@ -105,14 +107,14 @@ Mohammed Yunus
 - [Aadi Sharma@DevSocPI](https://github.com/AadiSharma001)
 - Yash Rustogi
 - Okuroemi Douebi Kelvin
-- [[Rohit Mohanty]] (https://github.com/jayClean)
+- [Rohit Mohanty](https://github.com/jayClean)
 - [Dhruv Tandon} @DevsocPI
 - esisgilz
 - [Preeti Raj](https://github.com/Preetiraj3697)
 - [Gopal Pandey](https://github.com/Ahamasmi)
 - [Aryan Bansal @devsocPI]
 - [Neha Menon@DevSocPI](https://github.com/thenehamenon)
-- [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
+- [Ayush Raj @DevsocPI]  (https://github.com/Aayuraju)
 - [Jatin Gahlot @DevSocPI]
 - [Mustafa-Alwalss].
 - [Farhan Sayyed](https://github.com/farhansayyed165)
